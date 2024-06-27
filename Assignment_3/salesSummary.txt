@@ -1,0 +1,6 @@
+Sales     
+755.22    
+461.54    
+751.11    
+Count      Total Sales          Average Sales  
+3          1967.87              655.96         
